@@ -2,7 +2,7 @@
 
 _Socials_
 
-[![Discord](https://img.shields.io/badge/-@zperk-white?logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.com/users/328414435951509505)[![Steam](https://img.shields.io/badge/-zperk-white?logo=steam&logoColor=white&color=000001&style=for-the-badge)](https://steamcommunity.com/id/zperk)[![Instagram](https://img.shields.io/badge/-@at.sso-white?logo=instagram&logoColor=white&color=E4405F&style=for-the-badge)](https://www.instagram.com/at.sso/)[![GitHub](https://img.shields.io/badge/-at–sso-white?logo=github&logoColor=white&color=181717&style=for-the-badge)](https://github.com/at-sso)
+[![Discord](https://img.shields.io/badge/-@zperk-white?logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.com/users/328414435951509505)[![Steam](https://img.shields.io/badge/-zperk-white?logo=steam&logoColor=white&color=000001&style=for-the-badge)](https://steamcommunity.com/id/zperk)[![Instagram](https://img.shields.io/badge/-@at.sso-white?logo=instagram&logoColor=white&color=E4405F&style=for-the-badge)](https://www.instagram.com/at.sso/)[![GitHub](https://img.shields.io/badge/-at–sso-white?logo=github&logoColor=white&color=181717&style=for-the-badge)](https://guthib.com/)
 
 _Skills_
 
